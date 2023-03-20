@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on JP Dev Blog</title>
-    <link>https://galahad451.github.io/posts/</link>
-    <description>Recent content in Posts on JP Dev Blog</description>
+    <title>GameDev on JP Dev Blog</title>
+    <link>https://galahad451.github.io/tags/gamedev/</link>
+    <description>Recent content in GameDev on JP Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Juan Pablo De Alba 2023</copyright>
-    <lastBuildDate>Thu, 12 Apr 2018 16:14:01 -0600</lastBuildDate><atom:link href="https://galahad451.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Apr 2018 16:14:01 -0600</lastBuildDate><atom:link href="https://galahad451.github.io/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Last of US... Desde la psicología</title>
       <link>https://galahad451.github.io/posts/the-last-of-us-from-psychology/</link>

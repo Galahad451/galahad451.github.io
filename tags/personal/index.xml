@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on JP Dev Blog</title>
+    <link>https://galahad451.github.io/tags/personal/</link>
+    <description>Recent content in Personal on JP Dev Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Juan Pablo De Alba 2023</copyright>
+    <lastBuildDate>Mon, 09 Apr 2018 16:14:01 -0600</lastBuildDate><atom:link href="https://galahad451.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La experiencia está en la MENTE del jugador</title>
+      <link>https://galahad451.github.io/posts/experience-is-in-players-mind/</link>
+      <pubDate>Mon, 09 Apr 2018 16:14:01 -0600</pubDate>
+      
+      <guid>https://galahad451.github.io/posts/experience-is-in-players-mind/</guid>
+      <description>Como desarrolladores sabemos que nuestras creaciones van a ser para alguien más, sin embargo, cada jugador tendrá, por mínima que sea la diferencia, una experiencia distinta, debido a la suma de las acciones de toda su vida que lo han llevado hasta ese momento.
+A pesar de eso hay cosas que se comparten y ahí es donde nosotros podemos decidir que queremos que el jugador experimente. Sabiendo esto, vamos a ver como es que el jugador llega a experimentar un juego y que podemos hacer nosotros como desarrolladores para que lo que queremos que experimente esté en armonía con lo que experimenta.</description>
+      <content>&lt;p&gt;Como desarrolladores sabemos que nuestras creaciones van a ser para alguien más, sin embargo, cada jugador tendrá, por mínima que sea la diferencia, una experiencia distinta, debido a la suma de las acciones de toda su vida que lo han llevado hasta ese momento.&lt;/p&gt;
+&lt;p&gt;A pesar de eso hay cosas que se comparten y ahí es donde nosotros podemos decidir que queremos que el jugador experimente. Sabiendo esto, vamos a ver como es que el jugador llega a experimentar un juego y que podemos hacer nosotros como desarrolladores para que lo que queremos que experimente esté en armonía con lo que experimenta.&lt;/p&gt;
+&lt;p&gt;Existen 4 habilidades mentales de acuerdo a Jesse, autor de &amp;ldquo;The Art of Game Design&amp;rdquo;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelaje&lt;/li&gt;
+&lt;li&gt;Concentración&lt;/li&gt;
+&lt;li&gt;Empatía&lt;/li&gt;
+&lt;li&gt;Imaginación&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vamos a ver como funciona cada una de estas y que mejor manera de hacerlo que con un ejemplo. Para esto voy a tomar un caso de la vida cotidiana y lo convertiré en una experiencia de juego.&lt;/p&gt;
+&lt;p&gt;Supongamos que me levanto en la mañana para ir al trabajo, como cuido el medio ambiente agarro mi bici y me voy. Analizando el recorrido, digamos que como era en la mañana estaba haciendo frío por lo que cuando agarraba velocidad el aire me golpeaba hasta que se me entumía la cara, como no calenté y ya estoy medio grande, en la primera subida me duelen las rodillas y me arrepiento de no haber tomado el camión, pero ya que sigue la bajada me siento muy bien y hasta un tanto realizado. Como la infraestructura está feo y media mi adrenalina está a tope al esquivar bache tras tope tras peatón tras coche tras ciclista etc&amp;hellip;
+Además ese día me tocó ver a alguien que se le quedó el coche, y como antes usaba coche, sabía lo feo que se sentía que eso te pase, así que lo ayudé con un empujón. Al final llegué a mi trabajo sudado pero sintiéndome de maravilla.&lt;/p&gt;
+&lt;p&gt;Ahora queremos que el jugador experimente eso que sentí, pero ¿Cómo lo haría?
+Vamos desarmando esa experiencia colocando las pequeñas cosas que la formaron:
+El frío de la mañana
+El dolor de rodillas
+El arrepentimiento por no usar el camión
+El sentirme realizado por no desistir
+La adrenalina de esquivar
+El ayudar a alguien más
+Sentirme de maravilla por todo lo que hice
+Ya teniendo esto vamos a armarlo según las 4 habilidades mentales&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MODELAJE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;De acuerdo a Jesse, la realidad es muy compleja para nuestras mentes, así que debemos de simplificarla con modelos de la realidad que podamos entender. Entonces, digamos que queremos hacer un juego de aventura, vamos a modelar un poco la realidad para crear un monstruo de hielo, que es el que nos hará experimentar una sensación de frío y de dolor. En la realidad sabemos que un ser humano está formado por una cabeza, brazos, piernas y tórax, siendo todo esto ya un modelo de esa realidad que nuestras mentes no pueden entender, y poder formar a nuestro monstruo, que a pesar de su forma diferente a la del ser humano, tiene elementos que lo relacionan y podemos entender que es un monstruo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCENTRACIÓN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La concentración es la habilidad de nuestra mente para seleccionar sólo en lo que estamos atentos, ignorando todo lo demás. En nuestro ejemplo debemos estar atentos a nuestro camino y a lo que pueda interferir en él, y ya que el camino es peligroso, debemos estar prestando más atención de lo normal.
+Para nuestro juego digamos que necesitamos colectar ciertos elementos para poder vencer a este monstruo de hielo, lo cual mantendrá mi mente en el juego, buscando nuevos caminos para encontrarlos, pero necesitamos una motivación para vencer a este monstruo. Quizás ayudar a alguien para cumplir con nuestro último requisito, ayudar a alguien más, lo que nos lleva a nuestra siguiente habilidad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMPATÍA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La empatía es básicamente ponernos en los zapatos del otro, tenemos que lograr que el jugador se ponga en los zapatos del personaje, y no sólo el personaje principal, sino todos los otros personajes, inclusive monstruos, y hacerle preguntar el por que está haciendo lo que hace el personaje. En nuestro ejemplo de la bici, la empatía se muestra en el momento de ayudar al que se le quedó el coche, ya que nosotros hemos estado ahí.
+En nuestro juego, si bien no hemos estado, y probablemente nunca estaremos en un bosque rodeado de monstruos de hielo, si que estamos rodeados de personas enojadas, e inclusive, nosotros mismos hemos estado enojados, o en apuros, si es que vamos a rescatar a alguien. Entonces quizá en nuestro juego hagamos una trama en la que el monstruo sólo necesita algo de ayuda, algo como lo que hizo &amp;ldquo;Undertale&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Ya teniendo todo esto sólo nos queda la última habilidad, pero no menos importante.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IMAGINACIÓN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Esta es la habilidad que va a poner al jugador en nuestro juego. Al momento de empezar con nuestra historia, el jugador ya va a empezar a narrar una historia, quizá creada en base a su experiencia de vida, quizá en otra historia, y al final su imaginación va a ir moldeando la historia conforme la vayamos contando. Va a hacerlo querer ver el final, llegar con el monstruo de hielo ya que su imaginación le decía que quizá era algo malvado, o quizá se debía derrotar de cierta manera, o le decía que el monstruo tenía a una princesa encarcelada cuando en realidad sólo quería proteger a su familia.&lt;/p&gt;
+&lt;p&gt;Espero que con este ejemplo quede más claro estas habilidades mentales a tener en cuenta al momento de desarrollar un videojuego. De igual manera es muy importante prestar atención a todo lo que hagamos, intentar darle nombre a esas experiencias para que cuando queramos ponerlas en un videojuego sea más fácil.&lt;/p&gt;
+&lt;p&gt;Referencia:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jesse Schell. (2008). The Art of Game Design: A book of lenses. New York: CRC Press.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>¿Por qué un desarrollador de videojuegos?</title>
+      <link>https://galahad451.github.io/posts/mypost/</link>
+      <pubDate>Thu, 15 Mar 2018 16:14:01 -0600</pubDate>
+      
+      <guid>https://galahad451.github.io/posts/mypost/</guid>
+      <description>Recuerdo que la primer consola que probé fue un Atari, no recuerdo el modelo, pero sólo tenía una palanca y un botón. El juego trataba sobre un auto, o lo que parecía ser un auto por que sólo eran unos cuantos pixeles blancos en un fondo azul, que avanzaba esquivando otros autos y que iba acelerando con forme más avanzabas, siguiendo un mismo patrón. Esta fue la parte inicial de ese proceso que terminaría por llevarme a la idea de desarrollar videojuegos.</description>
+      <content>&lt;p&gt;Recuerdo que la primer consola que probé fue un Atari, no recuerdo el modelo, pero sólo tenía una palanca y un botón. El juego trataba sobre un auto, o lo que parecía ser un auto por que sólo eran unos cuantos pixeles blancos en un fondo azul, que avanzaba esquivando otros autos y que iba acelerando con forme más avanzabas, siguiendo un mismo patrón. Esta fue la parte inicial de ese proceso que terminaría por llevarme a la idea de desarrollar videojuegos.&lt;/p&gt;
+&lt;p&gt;Después de avanzar en ese camino establecido por alguna persona en algún lugar, en algún momento del tiempo, y terminar mis estudios universitarios, tuve la oportunidad (más por necesidad) de aprender nuevas cosas muy distintas a mi área de estudio, en especial fotografía y música.&lt;/p&gt;
+&lt;p&gt;Estas áreas fueron las que me llevaron a ver el mundo con otros ojos. El hecho de que la fotografía sea una mezcla de valores numéricos, una ecuación entre el ISO, la velocidad y la apertura para obtener una exposición deseada, pero que al final del día, el trabajo extraordinario depende en su mayoría de la persona que toma la foto y de su visión del mundo. Esa última parte es la que nos lleva a querer crear piezas de arte como cuadros, canciones, películas, libros y claro, videojuegos.&lt;/p&gt;
+&lt;p&gt;En los videojuegos, cada pieza extraordinaria que se crea es una ventana que nos transporta hacia un momento distinto de nuestro presente, o de nuestra realidad, a pesar de que toma experiencias vividas para mezclarlas con situaciones distintas, quizá un viaje en el espacio, un mundo post-apocalíptico o una historia en nuestro tiempo que saca recuerdos guardados.&lt;/p&gt;
+&lt;p&gt;Tener la oportunidad de crear, con esa comunidad tan grande que existe en el mundo de los videojuegos, formada por programadores, artistas, músicos, actores, historiadores, entre otros, una experiencia de esa magnitud, capaz de llegar a miles de personas, dejando huella, motivando, cambiando, creo que es suficiente razón para convertirte en un desarrollador de videojuegos.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
